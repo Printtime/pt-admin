@@ -1,0 +1,19 @@
+{
+    "name": "printtime/pt-admin",
+    "description": "Printtime admin panel",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "deminua",
+            "email": "dataranenko@gmail.com.ua"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Printtime\\pt-admin\\": ""
+        }
+    }
+}
